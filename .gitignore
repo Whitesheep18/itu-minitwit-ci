@@ -8,5 +8,6 @@ _mailinglist
 .vscode/
 *.venv
 __pycache__/
-ssh_keys/do_ssh_key*
+ssh_keys/do_ssh_key.pub
+ssh_keys/do_ssh_key
 .vagrant/
